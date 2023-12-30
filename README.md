@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-my-rtx [![Build](https://github.com/chrisboyce/asdf-my-rtx/actions/workflows/build.yml/badge.svg)](https://github.com/chrisboyce/asdf-my-rtx/actions/workflows/build.yml) [![Lint](https://github.com/chrisboyce/asdf-my-rtx/actions/workflows/lint.yml/badge.svg)](https://github.com/chrisboyce/asdf-my-rtx/actions/workflows/lint.yml)
+# my-rtx [![Build](https://github.com/chrisboyce/asdf-my-rtx/actions/workflows/build.yml/badge.svg)](https://github.com/chrisboyce/asdf-my-rtx/actions/workflows/build.yml) [![Lint](https://github.com/chrisboyce/asdf-my-rtx/actions/workflows/lint.yml/badge.svg)](https://github.com/chrisboyce/asdf-my-rtx/actions/workflows/lint.yml)
 
 [my-rtx](https://github.com/chrisboyce/my-rtx) plugin for the [asdf version manager](https://asdf-vm.com).
 
